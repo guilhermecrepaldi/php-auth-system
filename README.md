@@ -74,3 +74,5 @@ Sistema completo de autenticacao: registro, login, JWT, reset de senha, middlewa
 <!-- 2022-02-01 16:19 -->
 
 <!-- 2022-02-01 17:50 -->
+
+<!-- 2022-02-02 09:46 -->
